@@ -1,0 +1,28 @@
+{
+  "name": "concurrent-promise",
+  "description": "A ts-type friendly promise Library —— Concurrent your promise!",
+  "author": "aweiu",
+  "version": "1.0.0",
+  "keywords": [
+    "promise",
+    "queue",
+    "p-queue"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweiu/concurrent-promise"
+  },
+  "scripts": {
+    "build": "father-build --esm --cjs --target node --nodeVersion 8"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "father-build": "^1.20.4",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
