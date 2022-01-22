@@ -36,3 +36,7 @@ cp.start().then(() => {
   // Once stop is called, it will come here
 });
 ```
+
+### Related
+
+[A ts-type friendly promise Library —— Synchronize your promise!](https://github.com/aweiu/synchronize-promise)
