@@ -2,7 +2,7 @@
   "name": "concurrent-promise",
   "description": "A ts-type friendly promise Library —— Concurrent your promise!",
   "author": "aweiu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "promise",
     "queue",
